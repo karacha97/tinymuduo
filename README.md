@@ -8,4 +8,13 @@
 4. 编写了基本的Http服务器，并进行了压力测试，测得实验虚拟机下可达到上万QPS；
 
 ## 反应式服务器 Reactor模式
-![这是图片](/figure/mreactor.svg "Magic Gardens")
+采用multiple reactor模式，可以有效提高并发连接数
+![mutiple Reactor](/figure/mreactor.svg "Magic Gardens" #pic_center)
+
+## 测试结果
+
+测试环境：
+- ubuntu 20.04.1
+- 内存4GB
+- CPU 4核
+![result](/figure/testresult.png "Results" #pic_center)
