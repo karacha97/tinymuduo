@@ -10,7 +10,7 @@
 ## 反应式服务器 Reactor模式
 采用multiple reactor模式，可以有效提高并发连接数
 
-![mutiple Reactor](/figure/mreactor.svg "Magic Gardens" #pic_center)
+![/figure/mreactor.svg](https://github.com/karacha97/tinymuduo/blob/main/figure/mreactor.svg #pic_center) 
 
 ## 测试结果
 
@@ -19,4 +19,4 @@
 - 内存4GB
 - CPU 4核
 
-![result](/figure/testresult.png "Results" #pic_center)
+![/figure/testresult.png](https://github.com/karacha97/tinymuduo/blob/main/figure/testresult.png  #pic_center)
