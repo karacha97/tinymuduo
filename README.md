@@ -9,6 +9,7 @@
 
 ## 反应式服务器 Reactor模式
 采用multiple reactor模式，可以有效提高并发连接数
+
 ![mutiple Reactor](/figure/mreactor.svg "Magic Gardens" #pic_center)
 
 ## 测试结果
@@ -17,4 +18,5 @@
 - ubuntu 20.04.1
 - 内存4GB
 - CPU 4核
+
 ![result](/figure/testresult.png "Results" #pic_center)
