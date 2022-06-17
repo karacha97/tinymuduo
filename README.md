@@ -7,3 +7,5 @@
 3. 设计环形缓冲区，更高效地读写文件；
 4. 编写了基本的Http服务器，并进行了压力测试，测得实验虚拟机下可达到上万QPS；
 
+## 反应式服务器 Reactor模式
+![这是图片](/figure/mreactor.svg "Magic Gardens")
